@@ -1,0 +1,6 @@
+httpx
+beautifulsoup4
+sqlalchemy
+openai
+streamlit
+python-dotenv
